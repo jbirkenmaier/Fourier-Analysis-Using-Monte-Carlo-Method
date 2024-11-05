@@ -7,3 +7,7 @@ The Label of the Blue Line shows the Error associated with the output, which is 
 If the Result is minimizing the Area, it will be accepted, otherwise it will be discarded. This idea is called "Monte-Carlo-Method" and has wide applications in Science. The runtime associated with these kinds of algorithms can be huge.
 Even though approximating the sine wave with a Fourier-Series is a trivial example, the algorithm can be applied to any given signal.
 ![WhatsApp Bild 2024-10-29 um 14 25 17_3c9f5b7f](https://github.com/user-attachments/assets/42cd4e5b-5d3c-487d-9833-5a359f3a3aa7)
+
+
+https://github.com/user-attachments/assets/bae452fc-16cf-4231-a42a-db83633b9d8f
+
