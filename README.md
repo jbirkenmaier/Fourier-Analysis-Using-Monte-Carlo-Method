@@ -1,6 +1,6 @@
 # Fourier-Analysis
 
-A very basic Machine-Learning Algorithm, involving the Monte-Carlo-Method to find the Fourier-Series Approximation of a given Signal
+A very basic Machine-Learning Algorithm, involving the Monte-Carlo-Method to find the Fourier-Series Approximation of a given Signal.
 
 The Following Image shows the result of the approximation of a sine wave (red). The Longer the runtime of the algorithm, the better the approximation.
 The Label of the Blue Line shows the Error associated with the output, which is connected to the area difference between the two lines. The algorithm aims to reduce this area by randomly varying the parameters of a Fourier-Series. 
